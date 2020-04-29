@@ -128,10 +128,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/css" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -176,9 +181,11 @@
       <screen x="1440" y="-119" width="1920" height="1000" />
     </state>
     <state x="1909" y="20" key="SettingsEditor/1440.-119.1920.1000/0.23.1440.877@1440.-119.1920.1000" timestamp="1576846408301" />
-    <state x="2065" y="102" width="670" height="676" key="search.everywhere.popup" timestamp="1576850519425">
-      <screen x="1440" y="-119" width="1920" height="1000" />
+    <state x="2065" y="125" width="670" height="677" key="search.everywhere.popup" timestamp="1579100741433">
+      <screen x="1440" y="-96" width="1920" height="1000" />
     </state>
     <state x="2065" y="102" width="670" height="676" key="search.everywhere.popup/1440.-119.1920.1000/0.23.1440.877@1440.-119.1920.1000" timestamp="1576850519425" />
+    <state x="2065" y="125" width="670" height="677" key="search.everywhere.popup/1440.-96.1920.1000/0.23.1440.877@1440.-96.1920.1000" timestamp="1579100741433" />
+    <state x="2065" y="138" width="670" height="715" key="search.everywhere.popup/1440.-96.1920.1057/0.23.1440.820@1440.-96.1920.1057" timestamp="1579098121865" />
   </component>
 </project>

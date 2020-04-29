@@ -25,12 +25,19 @@
 </template>
 
 <script>
+    import Notify from 'izitoast';
+
     export default {
         methods: {
             create({ target }) {
                 window.axios.post('/posts', new FormData(target)).then(() => {
-                    alert('Post created')
-                })
+                    Notify.success({
+                        message: "Post created",
+                        position: "topRight"
+                    });
+                    target.reset();
+                });
+
             }
         }
     }
